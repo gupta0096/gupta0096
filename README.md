@@ -1,76 +1,56 @@
-# Rahul Gupta 👋
+# Rahul Gupta
 
-Senior Python Backend Engineer | Data-Heavy Systems  
-6+ years | Django • FastAPI • Distributed Backends • ETL
+Senior Python Backend Engineer  
+Scalable APIs • Background Systems • Data Pipelines
 
-📍 India  
-📧 mrrahulgupta0096@gmail.com  
-🔗 https://linkedin.com/in/rahul-gupta-1b2578170
+[📄 Download CV](https://drive.google.com/file/d/1YWEzENWzOSRJFLVzW_Tl2dZJomDv7YO5/view)
 
----
 
-## 🧠 About Me
+📍 India · 📧 mrrahulgupta0096@gmail.com · 🔗 linkedin.com/in/rahul-gupta-1b2578170
 
-Senior Python Backend Engineer with **6+ years of experience** building scalable, data-driven backend systems.
 
-I specialize in:
-- **Python-based web platforms**
-- **Background processing & ETL workflows**
-- **Backend performance optimization**
-- **API-driven integrations**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,aws,kubernetes,azure,html,css,javascripts" />
+</p>
 
-I’ve worked across **product companies and service environments**, collaborating with data engineers and data scientists, and I’m actively transitioning deeper into **data engineering and distributed systems**.
 
 ---
 
-## 🛠 Tech Stack
+## What I Do
 
-### Languages & Backend
-- Python (Django, FastAPI, Flask)
-- REST APIs, Webhooks, Background Jobs
+I design and build **backend systems that scale and don’t break under load**.
 
-### Databases & Caching
-- PostgreSQL, MySQL, SQLite, MongoDB
-- Redis (caching, queues)
+Over the last **6+ years**, I’ve worked on:
+- Python-based platforms (Django, FastAPI)
+- Background processing and ETL workflows
+- Data-heavy systems and third-party integrations
 
-### Async & Messaging
-- Celery, RabbitMQ
-- Scheduled & batch processing
-
-### Data & ETL
-- PySpark
-- Databricks
-- Azure Data Factory
-- CSV / Excel / S3-based pipelines
-
-### Cloud & DevOps
-- AWS Services
-- Docker, Kubernetes
-- Linux (Ubuntu)
-
-### Frontend (working knowledge)
-- HTML, CSS, Bootstrap
-- JavaScript, jQuery, AJAX
+I care deeply about **performance, reliability, and clean system design**, and I’m actively moving deeper into **data engineering and distributed systems**.
 
 ---
 
-## 📌 What I Focus On
+## Tech I Work With
 
-- Designing **reliable backend systems**
-- Writing **efficient SQL and optimized queries**
-- Building **fault-tolerant background jobs**
-- Understanding **how systems behave under load**
-- Making **practical design trade-offs**
+**Backend**  
+Python · Django · FastAPI · Flask · REST · Webhooks
 
----
+**Data & Async**  
+PostgreSQL . NoSQL · Redis · Celery · RabbitMQ · PySpark · ETL
 
-## 🌱 Currently Learning
-
-- Advanced System Design
-- Distributed data processing
-- Data Engineering patterns
-- Backend scalability & reliability
+**Cloud & Infra**  
+AWS · Docker · Kubernetes · Linux
 
 ---
 
-> _“Good backend systems are built on understanding trade-offs, not frameworks.”_
+## What I Care About
+
+- Systems that fail **predictably**, not silently  
+- Making **trade-offs explicit** in design  
+- Code that is easy to **debug at 2 AM**  
+- Understanding how things work **under the hood**
+
+---
+
+## Currently Exploring
+
+System design · Distributed data processing · Backend scalability
